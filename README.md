@@ -1,0 +1,4 @@
+nagMasterRepo
+=============
+
+my master version
